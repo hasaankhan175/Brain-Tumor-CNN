@@ -1,5 +1,5 @@
 numpy==2.3.2
 Pillow==11.3.0
 streamlit==1.41.1
-tensorflow==2.18.0
+tensorflow-cpu==2.18.0
 tensorflow_intel==2.18.0
